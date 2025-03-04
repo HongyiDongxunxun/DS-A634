@@ -1,2 +1,3 @@
 # DS-A634
-just fo DS homework
+just fo our DS homework
+recommend to use it frequently
